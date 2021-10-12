@@ -150,11 +150,11 @@
     "special" : {
         "totals" : [
                 {
-                    "total" : 114,
+                    "total" : 100,
                     "cat" : "Hundred Cat"
                 },
                 {
-                    "total" : 1000,
+                    "total" : 120,
                     "cat" : "Thousand Cat"
                 }
         ],

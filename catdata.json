@@ -120,6 +120,7 @@
             "name" : "newcat",
             "rarity" : 0,
             "data" : "data"
+        }
     ],
     "special" : {
         "totals" : [

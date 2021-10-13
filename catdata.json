@@ -143,7 +143,7 @@
         },
         {
             "name" : "Witch Cat",
-            "rarity" : 3000,
+            "rarity" : 2,
             "data" : "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAmCAYAAADTGStiAAAAAXNSR0IArs4c6QAAAd5JREFUWIXNl71Kw1AYht+UrpXWjpLhgI6Su8hqoQjeg6tXII46eg+FIjjnLjI5dMgQHEtDu7nEoZz4nd/v5LQB38mcn/f5/kwoEKAcZZujbEPOhirxwVx7BTLnvWhwaGanwpXLElpjDQBIcT8YfEwfJPALL9Kw9cFzlG0snL3ElT4WPIq5RBU77WP+iKrHh8xYK1b9wWyZ3nK015e80d2K96LyljoUGqPepX5fldb1HPBOuBCiraqq209si39mcYNDAxBCdB5WsL55jnfzRiyUZy8YAG6qz2Cz0Dt6RY2SUAMXhJMtCL3/3QMtbSyQC4DClX7qwO1rhf3y+PfFBzB/ElYAPWc7SwOQ8JGE6qXQzfbL4xoHtZ3diEXnL3mjAllSIEv0ARtCFG79f5M6V6kB8FM9pCjc+a5+vv1xGmy/zV73uQ/8x4ylaHZ6pr49TkrDXVlL0/mVOVy+PSp9uII+iz5TDuiS8Skcote2T67R491ud26uVdZSS/hsNjvJ3JeEt8f6RS6QPtWygieTifJ8OBx6G1OPpmmMfaXpaZp6B0sGEAqkqutaYZ38SyIEapMC1qMaUkbGLnhImUPOSHkzlD2v6zqZTqfBL5amadjK9S4tF0AINArsCiAUKPULJUjyLtFmp24AAAAASUVORK5CYII=",
             "special_function" : {
                 "body" : "let e=document.getElementById('cat-style');e.innerText=e.innerText+'#cat-btn,#cat-btn:hover{filter:drop-shadow(0 0 6px green);animation: magic 4s infinite;}@keyframes magic{0%{transform:translate(0,0);}10%{transform:translate(15px,-5px);}24%{transform:translate(10px,5px);}40%{transform:translate(20px,30px);}75%{transform:translate(-20px,10px);}90%{transform:translate(10px,-15px);}100%{translate(0,0);}}';"
@@ -151,7 +151,7 @@
         },
         {
             "name" : "Archer Cat",
-            "rarity" : 3000,
+            "rarity" : 2,
             "data" : "iVBORw0KGgoAAAANSUhEUgAAABwAAAAiCAYAAABMfblJAAAAAXNSR0IArs4c6QAAApdJREFUSIm1l0FrE0EUx/9belgKgQolijlsoIVZ1IP0aHISL7r9Ar30IjTQEJAUyaFKCKgQJCBIK614ySGfwOBF9tR69GbZHIQmGKleemiR3sZDmNmZ2ZndaaJ/COzOvPd+772Znc06sNT2ISi77pTh2PqpynQUQapswKdnXXrj2ga3c9QBW1gW+PSsy30TQHXCFmQCizHV2PNqVq+/bUzDAmCXKM9oFpBOT293pXtW4UwtvAqYA21gnTKwd1DVzm1t7gIAtg9T/fmmmbOBiYF1MGbHbFWJRRmBaQGyElw+1nfDCJwGpMoETQCXj6va9ZplDIjbKm0allXucohz10s4ecU8Ko0m9tstDE9+awOL/t9vyeveKcOZ1zmIMK+Yl+b22y3tuJiALlkmqaVeMS/9Xr2LM6w0mpKjeF9pNBO+akJM2grFalhgVpnNXJqkNbz/x95RVL3Ww8rSBbaam9J4uBB3gT38c+IpEC40JSMbUL3WQxRFAIC91kGmj/Y5tIEyUBRF8H2fjzOorjpAeeOnnaus3fVaDwAk0NqHwWSsUeD2fnucDax+mgDdnB768THh7fN9n4NEidDiszF2H8oM7S69PI+v3dwEZKrK5GcSp7/86lEA+PlrKBl8fiJX9eBNEqTq5EVcJRbvAgD6/f7kfchAqrrrLoC4KhuQDtg/GjtBEFAGNQKZfrx/ZA0yaTQa8evMF/C/VurRBgBhGGa28+Z182G9szqUWypOqu3trrvSzjSB04Bfnt8BgwEWf/UJIVTcpYPBwGHPqw1wZ3UoMaw+SgghFABUsGoXlAr03tt4lVSYNVAHZm1m4KBU4FX3j8bGuFN9dqltXlm64HNpsJlECKGEEEoppUGpQMUK/6sIIVeC/QUQRzOyssU0OAAAAABJRU5ErkJggg=="
         }
     ],

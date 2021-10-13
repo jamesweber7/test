@@ -163,11 +163,6 @@
             "special_function" : {
                 "body" : "let style=document.getElementById('cat-style');style.innerText=style.innerText+'#cat-btn, #cat-btn:hover { animation: teleport 3s infinite; } @keyframes teleport { 0% { transform: scale(0%) rotate(180deg); } 10% { transform: scale(100%) rotate(0deg); } 90% { transform: scale(100%) rotate(0deg); } 100% { transform: scale(0%) rotate(180deg); } }';let btn=document.getElementById('cat-btn');btn.addEventListener('animationiteration',relocate);var body=document.body,html=document.documentElement,height=Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight),width=Math.max(body.scrollWidth,body.offsetWidth,html.clientWidth,html.scrollWidth,html.offsetWidth);function relocate(){btn.style.left=Math.floor(Math.random()*width)+'px',btn.style.top=Math.floor(Math.random()*height)+'px'}"
             }
-        },
-        {
-            "name" : "Scaredy Cat",
-            "rarity" : 2000,
-            "data" : "iVBORw0KGgoAAAANSUhEUgAAABoAAAAcCAYAAAB/E6/TAAAAAXNSR0IArs4c6QAAAV9JREFUSIm1lLFOw0AMhn0RT9EOoEyZu1UdEF14kUqoL5EhL4GQeBGWIgbE1rlT1A7wGmEoTmyf7dyF9l+S89n+fPYlAFdWe4AOAKDAl2sAaO5AF2UFQQasH4b93Tvfxz1p14oPmhGBmOj12a58sx2K8LoTrAowgQeRvp5/BEoJmgLse4uwzZY7lRUPaA+xHW0SiHnKCkIEopIQC2QBSZ5QUEi57+hmtryYIicRrdiqvofueYMYqF0Mn4NMpCVO8fmzd+b1tlQ3AE2d6n0+WbsIcevoFdU0BrHis0+UKzyRe72l6qf7/r15+UiH4fVOEYVo6zGN/nX/K/xBsxMdT5fGDLqRhuMJ4O4W4PMrdl4t+drzkUWz1u3eoPv+8StbLXWA1Hx2fq4fldalaGp7s0FTxUB4zEuJ5lMTe7OazwC8OcrZuCAK9PYtaZ1JalUO0Gp/1kzGgN6MJw1fAlMu0S/d2ZelLeFm1gAAAABJRU5ErkJggg=="
         }
     ],
     "special" : {

@@ -193,7 +193,7 @@
             },
             {   
                 "urls" : [
-                    "netflix", "youtube", "hulu", "disneyplus"
+                    "netflix", "youtube", "hulu", "disneyplus", "hbomax", "peacocktv"
                 ],
                 "chance" : 0.25,
                 "cat" : "Casual Cat"

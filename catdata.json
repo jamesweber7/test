@@ -134,7 +134,8 @@
         {
             "name" : "Cyber Cat",
             "rarity" : 2,
-            "data" : "iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAYAAADU8sWcAAAAAXNSR0IArs4c6QAAAc9JREFUSImtlrFqwzAQhn+HLoFuGZo9eMgUaEcPhQ59A0PfodC54EIJxJA5kHcI9Rt0KHTI2CFTh9A9HbIFMrpLJS7nu7Ns51+iSGd9v07S2UCABtiVvE372qpnwdzvHsNogF3JgV0NiHBuwIKGGtim60pcTxrcYxiFTBhiYJuuSwkMABENcu24SHx/09RS4xKUzl0byOE3m98mXkz5tFNHTtKqvyZXZwG/TybRCdCt/vHlsu2Evn2/2ZhggKSdPFSyQD5eC7ZiHbgCrwNrk2pxPJaCAbLnHHxuLWeHSl/PAktpc33L2cFPqG0Fjc2KfmU8arNivgrrgHLwG67lPQfk+y4pLhJs07UZ46B5eqTPeeZFCEiSBZagUtrVFwtVXCRiWxvL06MHZ0UfWdE/6XMSXyBKqXVjqjk6VpfyRvAuckboYQP+97xy4oU72QWap0fERVK5WWqFk4pCF9HrGFzbu5rgNUCt7ZqBpia0osNru/q5JBnIXn9qwfl0FAQ24QDwcbvyBuaLca2BfDrC89O3/++ekcAqnEK55ouxaICDue4+HyqsoAongaz/oWoFp8C2YMDYcyn1bg8tSamXUm7CLdV9A2gH7CxwzUQo1OkPHKL+hw5pxFMAAAAASUVORK5CYII="
+            "data" : "iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAYAAADU8sWcAAAAAXNSR0IArs4c6QAAAc9JREFUSImtlrFqwzAQhn+HLoFuGZo9eMgUaEcPhQ59A0PfodC54EIJxJA5kHcI9Rt0KHTI2CFTh9A9HbIFMrpLJS7nu7Ns51+iSGd9v07S2UCABtiVvE372qpnwdzvHsNogF3JgV0NiHBuwIKGGtim60pcTxrcYxiFTBhiYJuuSwkMABENcu24SHx/09RS4xKUzl0byOE3m98mXkz5tFNHTtKqvyZXZwG/TybRCdCt/vHlsu2Evn2/2ZhggKSdPFSyQD5eC7ZiHbgCrwNrk2pxPJaCAbLnHHxuLWeHSl/PAktpc33L2cFPqG0Fjc2KfmU8arNivgrrgHLwG67lPQfk+y4pLhJs07UZ46B5eqTPeeZFCEiSBZagUtrVFwtVXCRiWxvL06MHZ0UfWdE/6XMSXyBKqXVjqjk6VpfyRvAuckboYQP+97xy4oU72QWap0fERVK5WWqFk4pCF9HrGFzbu5rgNUCt7ZqBpia0osNru/q5JBnIXn9qwfl0FAQ24QDwcbvyBuaLca2BfDrC89O3/++ekcAqnEK55ouxaICDue4+HyqsoAongaz/oWoFp8C2YMDYcyn1bg8tSamXUm7CLdV9A2gH7CxwzUQo1OkPHKL+hw5pxFMAAAAASUVORK5CYII=",
+            "special_card" : "catProfile.className='cyber';let e=document.createElement('style');e.innerText='.cyber{background-image:linear-gradient(to top,#46d1d1,#dd55c5,#46d1d1,#46d1d1,#46d1d1);-webkit-background-clip:text;color:transparent;}.cyber img{filter:drop-shadow(0 0 4px #dd55c5) drop-shadow(0 0 5px #46d1d1);}';document.head.append(e);"
         },
         {
             "name" : "King Cat",

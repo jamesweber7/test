@@ -210,17 +210,17 @@
         },
         {
             "name" : "Alien Cat",
-            "rarity" : 1000,
+            "rarity" : 2,
             "data" : "iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAYAAAAMq2gFAAAAAXNSR0IArs4c6QAAAVpJREFUSIndlbGKwkAQhmeDhSBcY3FFWsGAleQBrGzEB8gj5gGCjZUPEKwEhWtTXGEjCFccFxsnzm5mdje6pri/Snb/zDczmU0ALFoWSb0skvpVDwCAsgWg99v1seX18aAiVya9KGTr3l4RJhH5ZPMsgMaOuMUQEPN+wBno9IznI8iq1JrEeX9lAVTKNIznow6528FUTUUcII/L5jqrUjGw6aOxEKqIQSubPmyD+fjyuFTseHMPc+u+PoD71Lledgj19gnqBZRVaf2/KhJB0pnBdZwql49KPEchJZ4jw8Reu/ZMab9eqSpbq1xtzONStUCr3az+mAytmXUVggbmxuXrBwAAXgViHFQLJBldYNNvSgNFn7/a5t/3Y9sVSIqBat7R+jhlB4HCnoUUyck93qH0dlCRnNrjDaC3sEvbULR9CGFBnFa7mffnabM4sDG9QL5ACdIZJAFtANQNnCKnBYtkSOUAAAAASUVORK5CYII="
         },
         {
             "name" : "Rider Cat",
-            "rarity" : 1000,
+            "rarity" : 2,
             "data" : "iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAAXNSR0IArs4c6QAAAaNJREFUSIm1lr9qwzAQxj+ZdshQKNTgwQQ/SJ8jXryXkNGLlnSqFy8ZQ+meJXmOQl/DlAyFFAIZMnRIh8bmdDrLcpx+EIj+3P0+naQoCp5aA6f6ewoo3ziqwAdCQW19bdquymZeQBsSqK8RCuG5Fe2IM618IG2qyystIM60Msq4XZXe5ZHUVd7GyXumL2WIelyVRjvOtBpUtj7QONNK+YBSAG96Ko49la8AgLU7XgEeRz9lSSVQPS+1ZqA2cnLCXMFd5vYtVRBhl0C4JKAF2+upuD9D+oC/UhoHpHZzezziZzSyAsZRiE1eYLKY4/NrJyal8fdsn2+kyRQ0jkJjbLKYi/0ULhkFWBnHUWh8PoizTV4YgbS9yQsrlpsBAKOMd2fXUtJJzzEAODCDnbAhorAUUAF9CA95Ybm5psR7dg0gXxXAnnfX76SrxF3mRNjyDLPP0WXaAZgRhnjP6HXtA26/5g5YnwQuzVjlmsZLkhj79VBVvRJ/J4nY/1xVDSOQQHVwWwJfEFfn4zlEdFX/DuMyyEP2jZeSr8qCubTs+GPET56kXy+UrLBZDvUoAAAAAElFTkSuQmCC"
         },
         {
             "name" : "Elf Cat",
-            "rarity" : 1000,
+            "rarity" : 4,
             "data" : "iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAYAAAAMq2gFAAAAAXNSR0IArs4c6QAAAahJREFUSInFVz1PwzAQfVd1qsLKwoolVCQmgpiRQOo/yK9gYeuKxMbSX+F/UIlKrCDolAkpXVlYW7GaoXLtiz/iJK14k8++u2f7TvELIYDLOZRtLyegkG8KnOA6QQhtiZlzKkkXQgKAl2+pAGBaFm15kgkHtvF0ITsThW5DVdt5UhUUCZA+1d1JQbHAFCwn27zaJgFyJvqSaHyecntoG6qCylfG7nOVeVkwMtIEAJCvePLb327NsRhJJ54R+RxSQMKMVcXJdL5dS+pm0CR2sJ0gRhLyJQEia9FuCi88CYKwfUmABnWSQ2Hgm/RdU+pcaJ41wyHhPdHj23kwIFaXWPz/nmi3C+EfN615c+lB6FQ6ibfAkbWaHw3jLvEkTQSMrBa491rpF4HVyP4+7RuMaFoWWIwk1pv+idcbvnGnRvfSfLk/bsz8Udac+OrV2LNCMg3CanT27K/RrDA7u/7hT8j7sXQ2qJGNjWhp7DqAq6P6q5uqnJKIuiQGuARjzfD14GqzbJyWtMnPK/p0rVJJ6vCJySQ520Z+hRRrK6HeRBiTxZ1+Rbr80vwBVOemOEkx29IAAAAASUVORK5CYII="
         }
     ],
